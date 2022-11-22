@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>849267989952-g8ts4eu8t2mao921uc4q6k3n1uk43v84.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.849267989952-g8ts4eu8t2mao921uc4q6k3n1uk43v84</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOFh3WFTPbSXq2-1bzw6URRd-HBmAzXH4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>849267989952</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DeniseWilliams.Waitlisted</string>
+	<key>PROJECT_ID</key>
+	<string>waitlisted-a99b5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waitlisted-a99b5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:849267989952:ios:0c6a950d1efbb71999bc25</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please give me your location !!</string>
+</dict>
+</plist>
